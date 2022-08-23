@@ -1,0 +1,44 @@
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding:0;
+    margin-top:20em;
+}
+
+.mainBody{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.mt20{
+    margin-top: 40px;
+}
+
+.text{
+    text-align: center;
+    color: black;
+    letter-spacing: 2px;
+    font-family: 'Lato','sans-serif';
+    font-weight: bolder;
+    font-size: 1.5em;
+    text-align: start;
+}
+
+.myBtn{
+
+    padding:10px;
+    padding-left:20px;
+    padding-right: 20px;
+    background-color: #C21010;
+    border: none;
+    font-family: 'Lato','sans-serif';
+    text-decoration: none;
+    color: white;
+
+}
+
+.myBtn:hover{
+    background-color: #f3124e;
+}
